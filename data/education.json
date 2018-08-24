@@ -1,15 +1,16 @@
 [
     {
-        "school":"Rochester Institute of Technology",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"Northeastern University",
+        "degree":"Master of Science",
+        "location":"Boston, MA",
+        "major":"Data Science",
+        "range":"2017 - Present"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"M. S. Ramaiah Institute of Technology",
+        "location":"Bengaluru, India",
+        "degree":"Bachelor of Science",
+        "major":"Industrial Engineering and Management",
+        "range":"2011 - 2015"
     }
 ]
