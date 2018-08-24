@@ -1,6 +1,6 @@
 baseURL = "https://angry-archimedes-6b9b0f.netlify.com/"
 languageCode = "en-us"
-title = "Prathwish Shetty"
+title = "Prathwish SHetty"
 theme = "hugo-resume"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -9,9 +9,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     lastName = "Shetty"
     address = "Boston, MA"
     phone = "1-617-373-0840"
-    contactNote = "Data Scientist
+    contactNote = "Data Scientist"
     profileImage = "img/TechChat.png"
-    email = "shetty.prat@northeastern.edu"
+    email = "shetty.prat@northeastern.com"
     description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
     # what sections
