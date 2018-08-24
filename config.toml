@@ -1,17 +1,17 @@
 baseURL = "https://angry-archimedes-6b9b0f.netlify.com/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Prathwish Shetty"
 theme = "hugo-resume"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
+    firstName = "Prathwish"
+    lastName = "Shetty"
+    address = "Boston, MA"
+    phone = "1-617-373-0840"
+    contactNote = "Data Scientist
     profileImage = "img/TechChat.png"
-    email = "email@domain.com"
+    email = "shetty.prat@northeastern.edu"
     description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
     # what sections
