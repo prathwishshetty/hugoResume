@@ -1,4 +1,4 @@
-baseURL = "https://angry-archimedes-6b9b0f.netlify.com/"
+baseURL = "https://prathwishshetty.netlify.com/"
 languageCode = "en-us"
 title = "Prathwish SHetty"
 theme = "hugo-resume"
@@ -35,4 +35,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "UA-124611753-1"
