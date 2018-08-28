@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = true
+    showPosts = true
     showPublications = false
     showExperience = true
     showEducation = true
