@@ -19,10 +19,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     showSkills = true
     showProjects = true
     showPosts = true
-    showPublications = false
     showExperience = true
     showEducation = true
-
     showQr = false
 
 [[params.handles]]
